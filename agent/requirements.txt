@@ -1,0 +1,3 @@
+-r ../modelling/requirements.txt
+anthropic==2.12.0
+pytest==9.2.0
